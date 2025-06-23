@@ -6,7 +6,7 @@ API CRUD criada para o projeto customers: https://github.com/DanielSanLopes/cust
 Para a correta execução deste projeto é necessário executar os comandos de criação e inserção no banco de dados escritos no arquivo **db_creation.sql**
 
 
-Usando o terminal, acesse a pasta raíz de cada projeto e execute o  comando ``yarn``  para instalar as dependências  
+Usando o terminal, acesse a pasta raíz do projeto e execute o  comando ``yarn``  para instalar as dependências  
 Execute ``yarn start``  para inicializar o servidor localmente
 
 
