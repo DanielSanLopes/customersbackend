@@ -1,6 +1,8 @@
 ﻿# Customers Backend
 
+  
 API CRUD criada para o projeto customers: https://github.com/DanielSanLopes/customers  
+  
 Para a correta execução deste projeto é necessário executar os comandos de criação e inserção no banco de dados escritos no arquivo **db_creation.sql**
 
 
